@@ -7,7 +7,7 @@ var questions = [
         "option4": "an if",
         "answer": "4"
     }, { 
-        "question": "A Array indexes begin with _____.",
+        "question": "Array indexes begin with _____.",
         "option1": "!",
         "option2": "#",
         "option3": "0",
